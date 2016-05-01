@@ -108,12 +108,10 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
-## How to run the script?
- You should unzip the file in your work directory. After that you will have an archive called "household_power_consumption.txt". 
- This archive have all the information specified on the top of this README. Finally you can run every plot(NUMBER).R to get the graphs.
-
-
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## How to run the script?
+ You should unzip the file in your work directory. After that you will have an archive called "household_power_consumption.txt". 
+ This archive have all the information specified on the top of this README. Finally you can run every plot(NUMBER).R to get the graphs.
